@@ -13,9 +13,9 @@
 * 인공지능
 * 컴퓨팅적 사고
 
-프로그래밍 언어 스킬
-1.Python
-2.C
+프로그래밍 언어 스킬   
+1.Python   
+2.C   
 
 ------------------
 
@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning 생명과학
 - 💬 Ask me about 궁금한 점
-- 📫 How to reach me: 
+- 📫 How to reach me: dongyeongsanggangui@gmail.com
 
 
 github adress: [K-SJ][github]
