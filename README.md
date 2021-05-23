@@ -22,15 +22,15 @@
 2021년도 1학기 강의 과목
 |과목|내용|학점|
 |---|---|---|
-|소프트웨어세미나I|최신소프트웨어트렌|1|
-Here are some ideas to get you started:
+|소프트웨어세미나I|최신소프트웨어트렌드|1|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ....
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning 생명과학
+- 💬 Ask me about 궁금한 점
+- 📫 How to reach me: 
+
+
+github adress: [K-SJ][github]
+
+[github]:http://github.com/lifesciencesj
