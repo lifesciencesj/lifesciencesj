@@ -2,7 +2,7 @@
 ---
 ![자기소개사진](20210427_171640.jpg)
 
-
+<img src=20210427_171640.jpg height=150 width=150>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
