@@ -1,7 +1,7 @@
 # 한림대학교 생명과학과 김수진
 ---
-![자기소개사진]
-**lifesciencesj/lifesciencesj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![자기소개사진](20210427_171640.jpg)
+
 
 Here are some ideas to get you started:
 
